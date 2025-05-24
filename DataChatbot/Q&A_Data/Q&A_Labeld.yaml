@@ -1,0 +1,410 @@
+---
+- text: "Quels sont les objectifs du programme de master Automatique et Énergies Renouvelables (MAER) ?"
+  label: 0
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Automatique et Énergies Renouvelables (MAER) ?"
+  label: 1
+- text: "Quelles sont les conditions d'accès au programme Automatique et Énergies Renouvelables (MAER) ?"
+  label: 2
+- text: "Comment postuler au programme Automatique et Énergies Renouvelables (MAER) ?"
+  label: 3
+- text: "Quelle est la procédure de sélection pour le programme Automatique et Énergies Renouvelables (MAER) ?"
+  label: 4
+- text: "Comment contacter le bureau du programme Automatique et Énergies Renouvelables (MAER) ?"
+  label: 5
+- text: "Quels sont les objectifs du programme de master Chimie des Matériaux Innovants (CI) ?"
+  label: 6
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Chimie des Matériaux Innovants (CI) ?"
+  label: 7
+- text: "Quelles sont les conditions d'accès au programme Chimie des Matériaux Innovants (CI) ?"
+  label: 8
+- text: "Comment postuler au programme Chimie des Matériaux Innovants (CI) ?"
+  label: 9
+- text: "Quelle est la procédure de sélection pour le programme Chimie des Matériaux Innovants (CI) ?"
+  label: 10
+- text: "Comment contacter le bureau du programme Chimie des Matériaux Innovants (CI) ?"
+  label: 11
+- text: "Quels sont les objectifs du programme de master Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 12
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 13
+- text: "Quelles sont les conditions d'accès au programme Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 14
+- text: "Comment postuler au programme Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 15
+- text: "Quelle est la procédure de sélection pour le programme Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 16
+- text: "Comment contacter le bureau du programme Machine Learning Avancé et Intelligence Multimédia (MLAIM) ?"
+  label: 17
+- text: "Quels sont les objectifs du programme de master Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 18
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 19
+- text: "Quelles sont les conditions d'accès au programme Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 20
+- text: "Comment postuler au programme Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 21
+- text: "Quelle est la procédure de sélection pour le programme Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 22
+- text: "Comment contacter le bureau du programme Big Data et Systèmes Intelligents (BDSI) ?"
+  label: 23
+- text: "Quels sont les objectifs du programme de master Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 24
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 25
+- text: "Quelles sont les conditions d'accès au programme Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 26
+- text: "Comment postuler au programme Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 27
+- text: "Quelle est la procédure de sélection pour le programme Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 28
+- text: "Comment contacter le bureau du programme Biotechnologie Alimentaire et Management de la Qualité (BAMQ) ?"
+  label: 29
+- text: "Quels sont les objectifs du programme de master Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 30
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 31
+- text: "Quelles sont les conditions d'accès au programme Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 32
+- text: "Comment postuler au programme Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 33
+- text: "Quelle est la procédure de sélection pour le programme Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 34
+- text: "Comment contacter le bureau du programme Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) ?"
+  label: 35
+- text: "Quels sont les objectifs du programme de master Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 36
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 37
+- text: "Quelles sont les conditions d'accès au programme Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 38
+- text: "Comment postuler au programme Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 39
+- text: "Quelle est la procédure de sélection pour le programme Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 40
+- text: "Comment contacter le bureau du programme Electronique Embarquée et Systèmes Intelligents (2ESI) ?"
+  label: 41
+- text: "Quels sont les objectifs du programme de master Matériaux Avancés et Applications (A-M2A) ?"
+  label: 42
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Matériaux Avancés et Applications (A-M2A) ?"
+  label: 43
+- text: "Quelles sont les conditions d'accès au programme Matériaux Avancés et Applications (A-M2A) ?"
+  label: 44
+- text: "Comment postuler au programme Matériaux Avancés et Applications (A-M2A) ?"
+  label: 45
+- text: "Quelle est la procédure de sélection pour le programme Matériaux Avancés et Applications (A-M2A) ?"
+  label: 46
+- text: "Comment contacter le bureau du programme Matériaux Avancés et Applications (A-M2A) ?"
+  label: 47
+- text: "Quels sont les objectifs du programme de master Qualité du Logiciel (A-MQL) ?"
+  label: 48
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Qualité du Logiciel (A-MQL) ?"
+  label: 49
+- text: "Quelles sont les conditions d'accès au programme Qualité du Logiciel (A-MQL) ?"
+  label: 50
+- text: "Comment postuler au programme Qualité du Logiciel (A-MQL) ?"
+  label: 51
+- text: "Quelle est la procédure de sélection pour le programme Qualité du Logiciel (A-MQL) ?"
+  label: 52
+- text: "Comment contacter le bureau du programme Qualité du Logiciel (A-MQL) ?"
+  label: 53
+- text: "Quels sont les objectifs du programme de master Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 54
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 55
+- text: "Quelles sont les conditions d'accès au programme Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 56
+- text: "Comment postuler au programme Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 57
+- text: "Quelle est la procédure de sélection pour le programme Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 58
+- text: "Comment contacter le bureau du programme Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) ?"
+  label: 59
+- text: "Quels sont les objectifs du programme de master Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 60
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 61
+- text: "Quelles sont les conditions d'accès au programme Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 62
+- text: "Comment postuler au programme Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 63
+- text: "Quelle est la procédure de sélection pour le programme Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 64
+- text: "Comment contacter le bureau du programme Mathématiques Appliquées et Systèmes Intelligents (A-MASI) ?"
+  label: 65
+- text: "Quels sont les objectifs du programme de master Smart Industry (A-M2SI) ?"
+  label: 66
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Smart Industry (A-M2SI) ?"
+  label: 67
+- text: "Quelles sont les conditions d'accès au programme Smart Industry (A-M2SI) ?"
+  label: 68
+- text: "Comment postuler au programme Smart Industry (A-M2SI) ?"
+  label: 69
+- text: "Quelle est la procédure de sélection pour le programme Smart Industry (A-M2SI) ?"
+  label: 70
+- text: "Comment contacter le bureau du programme Smart Industry (A-M2SI) ?"
+  label: 71
+- text: "Quels sont les objectifs du programme de master Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 72
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 73
+- text: "Quelles sont les conditions d'accès au programme Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 74
+- text: "Comment postuler au programme Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 75
+- text: "Quelle est la procédure de sélection pour le programme Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 76
+- text: "Comment contacter le bureau du programme Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) ?"
+  label: 77
+- text: "Quels sont les objectifs du programme de master Web Intelligence et Science des Données (WISD) ?"
+  label: 78
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Web Intelligence et Science des Données (WISD) ?"
+  label: 79
+- text: "Quelles sont les conditions d'accès au programme Web Intelligence et Science des Données (WISD) ?"
+  label: 80
+- text: "Comment postuler au programme Web Intelligence et Science des Données (WISD) ?"
+  label: 81
+- text: "Quelle est la procédure de sélection pour le programme Web Intelligence et Science des Données (WISD) ?"
+  label: 82
+- text: "Comment contacter le bureau du programme Web Intelligence et Science des Données (WISD) ?"
+  label: 83
+- text: "Quels sont les objectifs du programme de master Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 84
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 85
+- text: "Quelles sont les conditions d'accès au programme Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 86
+- text: "Comment postuler au programme Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 87
+- text: "Quelle est la procédure de sélection pour le programme Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 88
+- text: "Comment contacter le bureau du programme Modélisation Stochastique et Statistique Décisionnelle (MSSD) ?"
+  label: 89
+- text: "Quels sont les objectifs du programme de master Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 90
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 91
+- text: "Quelles sont les conditions d'accès au programme Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 92
+- text: "Comment postuler au programme Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 93
+- text: "Quelle est la procédure de sélection pour le programme Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 94
+- text: "Comment contacter le bureau du programme Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) ?"
+  label: 95
+- text: "Quels sont les objectifs du programme de master Qualité du Logiciel (MQL) ?"
+  label: 96
+- text: "Quelles opportunités de carrière sont disponibles pour les diplômés du programme Qualité du Logiciel (MQL) ?"
+  label: 97
+- text: "Quelles sont les conditions d'accès au programme Qualité du Logiciel (MQL) ?"
+  label: 98
+- text: "Comment postuler au programme Qualité du Logiciel (MQL) ?"
+  label: 99
+- text: "Quelle est la procédure de sélection pour le programme Qualité du Logiciel (MQL) ?"
+  label: 100
+- text: "Comment contacter le bureau du programme Qualité du Logiciel (MQL) ?"
+  label: 101
+- text: "What are the objectives of the Automatique et Énergies Renouvelables (MAER) master’s program?"
+  label: 102
+- text: "What career opportunities are available for graduates of the Automatique et Énergies Renouvelables (MAER) program?"
+  label: 103
+- text: "What are the conditions of access for the Automatique et Énergies Renouvelables (MAER) program?"
+  label: 104
+- text: "How can one apply for the Automatique et Énergies Renouvelables (MAER) program?"
+  label: 105
+- text: "What is the selection procedure for the Automatique et Énergies Renouvelables (MAER) program?"
+  label: 106
+- text: "How can I contact the Automatique et Énergies Renouvelables (MAER) program office?"
+  label: 107
+- text: "What are the objectives of the Chimie des Matériaux Innovants (CI) master’s program?"
+  label: 108
+- text: "What career opportunities are available for graduates of the Chimie des Matériaux Innovants (CI) program?"
+  label: 109
+- text: "What are the conditions of access for the Chimie des Matériaux Innovants (CI) program?"
+  label: 110
+- text: "How can one apply for the Chimie des Matériaux Innovants (CI) program?"
+  label: 111
+- text: "What is the selection procedure for the Chimie des Matériaux Innovants (CI) program?"
+  label: 112
+- text: "How can I contact the Chimie des Matériaux Innovants (CI) program office?"
+  label: 113
+- text: "What are the objectives of the Machine Learning Avancé et Intelligence Multimédia (MLAIM) master’s program?"
+  label: 114
+- text: "What career opportunities are available for graduates of the Machine Learning Avancé et Intelligence Multimédia (MLAIM) program?"
+  label: 115
+- text: "What are the conditions of access for the Machine Learning Avancé et Intelligence Multimédia (MLAIM) program?"
+  label: 116
+- text: "How can one apply for the Machine Learning Avancé et Intelligence Multimédia (MLAIM) program?"
+  label: 117
+- text: "What is the selection procedure for the Machine Learning Avancé et Intelligence Multimédia (MLAIM) program?"
+  label: 118
+- text: "How can I contact the Machine Learning Avancé et Intelligence Multimédia (MLAIM) program office?"
+  label: 119
+- text: "What are the objectives of the Big Data et Systèmes Intelligents (BDSI) master’s program?"
+  label: 120
+- text: "What career opportunities are available for graduates of the Big Data et Systèmes Intelligents (BDSI) program?"
+  label: 121
+- text: "What are the conditions of access for the Big Data et Systèmes Intelligents (BDSI) program?"
+  label: 122
+- text: "How can one apply for the Big Data et Systèmes Intelligents (BDSI) program?"
+  label: 123
+- text: "What is the selection procedure for the Big Data et Systèmes Intelligents (BDSI) program?"
+  label: 124
+- text: "How can I contact the Big Data et Systèmes Intelligents (BDSI) program office?"
+  label: 125
+- text: "What are the objectives of the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) master’s program?"
+  label: 126
+- text: "What career opportunities are available for graduates of the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) program?"
+  label: 127
+- text: "What are the conditions of access for the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) program?"
+  label: 128
+- text: "How can one apply for the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) program?"
+  label: 129
+- text: "What is the selection procedure for the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) program?"
+  label: 130
+- text: "How can I contact the Biotechnologie Alimentaire et Management de la Qualité (BAMQ) program office?"
+  label: 131
+- text: "What are the objectives of the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) master’s program?"
+  label: 132
+- text: "What career opportunities are available for graduates of the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) program?"
+  label: 133
+- text: "What are the conditions of access for the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) program?"
+  label: 134
+- text: "How can one apply for the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) program?"
+  label: 135
+- text: "What is the selection procedure for the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) program?"
+  label: 136
+- text: "How can I contact the Biotechnologie, Ecologie et Valorisation des Phytoressources (A-BEVP) program office?"
+  label: 137
+- text: "What are the objectives of the Electronique Embarquée et Systèmes Intelligents (2ESI) master’s program?"
+  label: 138
+- text: "What career opportunities are available for graduates of the Electronique Embarquée et Systèmes Intelligents (2ESI) program?"
+  label: 139
+- text: "What are the conditions of access for the Electronique Embarquée et Systèmes Intelligents (2ESI) program?"
+  label: 140
+- text: "How can one apply for the Electronique Embarquée et Systèmes Intelligents (2ESI) program?"
+  label: 141
+- text: "What is the selection procedure for the Electronique Embarquée et Systèmes Intelligents (2ESI) program?"
+  label: 142
+- text: "How can I contact the Electronique Embarquée et Systèmes Intelligents (2ESI) program office?"
+  label: 143
+- text: "What are the objectives of the Matériaux Avancés et Applications (A-M2A) master’s program?"
+  label: 144
+- text: "What career opportunities are available for graduates of the Matériaux Avancés et Applications (A-M2A) program?"
+  label: 145
+- text: "What are the conditions of access for the Matériaux Avancés et Applications (A-M2A) program?"
+  label: 146
+- text: "How can one apply for the Matériaux Avancés et Applications (A-M2A) program?"
+  label: 147
+- text: "What is the selection procedure for the Matériaux Avancés et Applications (A-M2A) program?"
+  label: 148
+- text: "How can I contact the Matériaux Avancés et Applications (A-M2A) program office?"
+  label: 149
+- text: "What are the objectives of the Qualité du Logiciel (A-MQL) master’s program?"
+  label: 150
+- text: "What career opportunities are available for graduates of the Qualité du Logiciel (A-MQL) program?"
+  label: 151
+- text: "What are the conditions of access for the Qualité du Logiciel (A-MQL) program?"
+  label: 152
+- text: "How can one apply for the Qualité du Logiciel (A-MQL) program?"
+  label: 153
+- text: "What is the selection procedure for the Qualité du Logiciel (A-MQL) program?"
+  label: 154
+- text: "How can I contact the Qualité du Logiciel (A-MQL) program office?"
+  label: 155
+- text: "What are the objectives of the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) master’s program?"
+  label: 156
+- text: "What career opportunities are available for graduates of the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) program?"
+  label: 157
+- text: "What are the conditions of access for the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) program?"
+  label: 158
+- text: "How can one apply for the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) program?"
+  label: 159
+- text: "What is the selection procedure for the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) program?"
+  label: 160
+- text: "How can I contact the Modélisation Stochastique et Statistique Décisionnelle (A-M2SD) program office?"
+  label: 161
+- text: "What are the objectives of the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) master’s program?"
+  label: 162
+- text: "What career opportunities are available for graduates of the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) program?"
+  label: 163
+- text: "What are the conditions of access for the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) program?"
+  label: 164
+- text: "How can one apply for the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) program?"
+  label: 165
+- text: "What is the selection procedure for the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) program?"
+  label: 166
+- text: "How can I contact the Mathématiques Appliquées et Systèmes Intelligents (A-MASI) program office?"
+  label: 167
+- text: "What are the objectives of the Smart Industry (A-M2SI) master’s program?"
+  label: 168
+- text: "What career opportunities are available for graduates of the Smart Industry (A-M2SI) program?"
+  label: 169
+- text: "What are the conditions of access for the Smart Industry (A-M2SI) program?"
+  label: 170
+- text: "How can one apply for the Smart Industry (A-M2SI) program?"
+  label: 171
+- text: "What is the selection procedure for the Smart Industry (A-M2SI) program?"
+  label: 172
+- text: "How can I contact the Smart Industry (A-M2SI) program office?"
+  label: 173
+- text: "What are the objectives of the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) master’s program?"
+  label: 174
+- text: "What career opportunities are available for graduates of the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) program?"
+  label: 175
+- text: "What are the conditions of access for the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) program?"
+  label: 176
+- text: "How can one apply for the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) program?"
+  label: 177
+- text: "What is the selection procedure for the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) program?"
+  label: 178
+- text: "How can I contact the Machine Learning Avancé et Intelligence Multimédia (A-MLAIM) program office?"
+  label: 179
+- text: "What are the objectives of the Web Intelligence et Science des Données (WISD) master’s program?"
+  label: 180
+- text: "What career opportunities are available for graduates of the Web Intelligence et Science des Données (WISD) program?"
+  label: 181
+- text: "What are the conditions of access for the Web Intelligence et Science des Données (WISD) program?"
+  label: 182
+- text: "How can one apply for the Web Intelligence et Science des Données (WISD) program?"
+  label: 183
+- text: "What is the selection procedure for the Web Intelligence et Science des Données (WISD) program?"
+  label: 184
+- text: "How can I contact the Web Intelligence et Science des Données (WISD) program office?"
+  label: 185
+- text: "What are the objectives of the Modélisation Stochastique et Statistique Décisionnelle (MSSD) master’s program?"
+  label: 186
+- text: "What career opportunities are available for graduates of the Modélisation Stochastique et Statistique Décisionnelle (MSSD) program?"
+  label: 187
+- text: "What are the conditions of access for the Modélisation Stochastique et Statistique Décisionnelle (MSSD) program?"
+  label: 188
+- text: "How can one apply for the Modélisation Stochastique et Statistique Décisionnelle (MSSD) program?"
+  label: 189
+- text: "What is the selection procedure for the Modélisation Stochastique et Statistique Décisionnelle (MSSD) program?"
+  label: 190
+- text: "How can I contact the Modélisation Stochastique et Statistique Décisionnelle (MSSD) program office?"
+  label: 191
+- text: "What are the objectives of the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) master’s program?"
+  label: 192
+- text: "What career opportunities are available for graduates of the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) program?"
+  label: 193
+- text: "What are the conditions of access for the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) program?"
+  label: 194
+- text: "How can one apply for the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) program?"
+  label: 195
+- text: "What is the selection procedure for the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) program?"
+  label: 196
+- text: "How can I contact the Physique des Nouveaux Matériaux & Énergies Renouvelables (PNOMER) program office?"
+  label: 197
+- text: "What are the objectives of the Qualité du Logiciel (MQL) master’s program?"
+  label: 198
+- text: "What career opportunities are available for graduates of the Qualité du Logiciel (MQL) program?"
+  label: 199
+- text: "What are the conditions of access for the Qualité du Logiciel (MQL) program?"
+  label: 200
+- text: "How can one apply for the Qualité du Logiciel (MQL) program?"
+  label: 201
+- text: "What is the selection procedure for the Qualité du Logiciel (MQL) program?"
+  label: 202
+- text: "How can I contact the Qualité du Logiciel (MQL) program office?"
+  label: 203
+---
