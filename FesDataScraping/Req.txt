@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+groq
+transformers
+sentence-transformers
+openai
+langchain
+langchain-text-splitters
+langchain_groq
