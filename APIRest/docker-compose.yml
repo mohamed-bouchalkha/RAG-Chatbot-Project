@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  rag-chatbot-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./embeddings:/app/embeddings
+    environment:
+      - GROQ_API_KEY=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
+      - FLASK_ENV=production
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
