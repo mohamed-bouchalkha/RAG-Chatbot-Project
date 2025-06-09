@@ -1,0 +1,162 @@
+version: 2
+task_description: 'Enseigner au modèle les détails historiques, culturels, architecturaux, sociaux, économiques et touristiques de la ville de Fès, Maroc'
+created_by: Grok
+domain: histoire et culture
+seed_examples:
+  # Histoire
+  - question: Quand la ville de Fès a-t-elle été fondée ?
+    answer: Fès a été fondée en 789 par Idris Ier, le fondateur de la dynastie idrisside.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Qui est considéré comme le principal fondateur de Fès ?
+    answer: Idris II, fils d’Idris Ier, est considéré comme le principal fondateur, ayant établi al-ʿĀliyá en 809.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Pourquoi Fès est-elle appelée la capitale spirituelle du Maroc ?
+    answer: Fès est appelée la capitale spirituelle en raison de son riche patrimoine religieux, notamment l’Université al-Qarawiyyin et la Zawiya de Moulay Idris II.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quelle est l’origine légendaire du nom "Fès" ?
+    answer: Une légende suggère que le nom "Fès" provient d’une pioche en or et argent (fās en arabe) utilisée pour tracer les fondations de la ville.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quand Fès est-elle devenue une ville unifiée ?
+    answer: Fès a été unifiée en 1070 sous les Almoravides, qui ont détruit les murs séparant les deux rives de l’Oued Fès.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Quel rôle les Almoravides ont-ils joué dans l’histoire de Fès ?
+    answer: Les Almoravides ont unifié Fès en 1070 et renforcé ses fortifications, consolidant son statut de centre politique.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Quels sont les principaux apports des Almohades à Fès ?
+    answer: Les Almohades ont reconstruit les fortifications et agrandi la ville, établissant son périmètre actuel en 1204.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Quand Fès a-t-elle atteint son apogée ?
+    answer: Fès a atteint son apogée sous les Marinides aux XIIIe et XIVe siècles, devenant un centre intellectuel et commercial.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Quelle dynastie a fondé Fès el-Jdid ?
+    answer: La dynastie Marinide a fondé Fès el-Jdid en 1276, agrandissant la médina.[](https://fr.wikipedia.org/wiki/M%25C3%25A9dina_de_F%25C3%25A8s)
+  - question: Quel impact les Saadiens ont-ils eu sur Fès ?
+    answer: Les Saadiens ont pris Fès en 1549 et construit des forts comme Borj Nord et Borj Sud pour contrôler la ville.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Quand Fès a-t-elle été capitale sous les Alaouites ?
+    answer: Fès a été capitale sous les Alaouites à plusieurs reprises, notamment sous Moulay Ismaïl au XVIIe siècle.[](https://www.vanupied.com/fes/histoire-fes/)
+  - question: Quel événement majeur a affecté Fès en 1522 ?
+    answer: Fès a souffert d’un tremblement de terre en 1522, causant des dommages importants.[](https://fr.vikidia.org/wiki/F%25C3%25A8s)
+  - question: Comment le protectorat français a-t-il transformé Fès ?
+    answer: Sous le protectorat français (1912-1956), Fès a vu le développement de la Ville Nouvelle, conçue par Henri Prost.[](https://www.universalis.fr/encyclopedie/fes/)
+  - question: Quand Fès a-t-elle été classée au patrimoine mondial de l’UNESCO ?
+    answer: La médina de Fès a été classée au patrimoine mondial de l’UNESCO en 1981.[](https://fr.wikipedia.org/wiki/M%25C3%25A9dina_de_F%25C3%25A8s)
+  - question: Quel rôle Fès a-t-elle joué dans le mouvement national marocain ?
+    answer: Fès a été un centre du mouvement national, avec des figures comme Allal El-Fassi rédigeant le manifeste pour l’indépendance en 1944.[](https://riad-layalina-fes.com/ryad-fez/tourism-fez-history-of-fes/)
+  - question: Quelles sont les principales vagues d’immigration à Fès au IXe siècle ?
+    answer: En 817-818, 800 familles andalouses et en 825, 2000 familles de Kairouan se sont installées à Fès.[](https://riad-layalina-fes.com/ryad-fez/tourism-fez-history-of-fes/)
+  - question: Comment les Andalous ont-ils influencé Fès ?
+    answer: Les Andalous ont apporté des savoir-faire architecturaux et culturels, enrichissant l’art arabo-andalou de Fès.[](https://riad-layalina-fes.com/ryad-fez/tourism-fez-history-of-fes/)
+  - question: Quel sultan a signé la Convention de Fès en 1912 ?
+    answer: Moulay Hafid a signé la Convention de Fès, établissant le protectorat français.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+  - question: Pourquoi Fès a-t-elle perdu son statut de capitale au XVIIe siècle ?
+    answer: Fès a perdu son statut au profit de Marrakech sous les Saadiens, mais est restée un centre culturel.[](https://terra-maroc.com/culture-histoire/fes-patrimoine)
+  - question: Quel est le rôle de l’Université al-Qarawiyyin dans l’histoire de Fès ?
+    answer: Fondée en 857, elle est devenue un centre intellectuel majeur, influençant l’Islam et l’Europe.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+
+  # Géographie
+  - question: Où se trouve géographiquement Fès ?
+    answer: Fès se trouve dans le nord du Maroc, dans la plaine du Saïss, entre le Rif et le Moyen Atlas.[](https://www.universalis.fr/encyclopedie/fes/)
+  - question: Quelle est l’altitude moyenne de Fès ?
+    answer: L’altitude moyenne de Fès est d’environ 400 mètres.[](https://fr.m.wikipedia.org/wiki/F%25C3%25A8s)
+  - question: Quelle est la principale rivière de Fès ?
+    answer: L’Oued Fès est la principale rivière, traversant la ville d’ouest en est.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quelle est la superficie de la médina de Fès ?
+    answer: La médina de Fès s’étend sur 271 hectares.[](https://fr.m.wikipedia.org/wiki/F%25C3%25A8s)
+  - question: Quels sont les principaux quartiers de Fès ?
+    answer: Fès se divise en Fès el-Bali, Fès el-Jdid, et la Ville Nouvelle (Dar Dbibegh).[](https://fr.m.wikipedia.org/wiki/F%25C3%25A8s)
+  - question: Quelle est la population de Fès selon le recensement de 2024 ?
+    answer: La population de Fès est de 1,256 million d’habitants en 2024.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Comment le climat de Fès est-il caractérisé ?
+    answer: Fès a un climat méditerranéen à influence continentale, avec des hivers doux et humides et des étés chauds et secs.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quels sont les massifs montagneux entourant Fès ?
+    answer: Fès est entourée par le Rif au nord et le Moyen Atlas au sud.[](https://www.universalis.fr/encyclopedie/fes/)
+  - question: Pourquoi la plaine du Saïss est-elle importante pour Fès ?
+    answer: La plaine du Saïss est fertile, soutenant l’agriculture avec des cultures comme les céréales et les olives.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quelle est la distance entre Fès et Rabat ?
+    answer: Fès se trouve à environ 180 km à l’est de Rabat.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+
+  # Culture
+  - question: Quelles sont les principales langues parlées à Fès ?
+    answer: Le darija marocain est la langue principale, avec le français et l’arabe standard également utilisés.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Qu’est-ce que le dialecte fassi ?
+    answer: Le dialecte fassi est une variante prestigieuse du darija, influencée par les parlers andalous.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quels sont les principaux festivals de Fès ?
+    answer: Les principaux festivals incluent le Festival des Musiques Sacrées du Monde et le Festival de la Culture Amazighe.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Quand se tient le Festival des Musiques Sacrées du Monde ?
+    answer: Il se tient généralement en mai ou juin chaque année.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Quelle est l’importance de la musique arabo-andalouse à Fès ?
+    answer: La musique arabo-andalouse est une tradition majeure à Fès, héritée des réfugiés andalous.[](https://www.vanupied.com/fes/histoire-fes/)
+  - question: Quels instruments sont typiques de la musique fassie ?
+    answer: Les instruments incluent le oud, le violon, la flûte, et le qanun.[](https://www.vanupied.com/fes/histoire-fes/)
+  - question: Comment les traditions artisanales sont-elles préservées à Fès ?
+    answer: Les artisans de Fès perpétuent des savoir-faire comme le zellige, le cuir, et la céramique dans les souks.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Quel est le rôle des riads dans la culture de Fès ?
+    answer: Les riads sont des maisons traditionnelles transformées en hébergements, préservant l’architecture et l’hospitalité fassie.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Pourquoi Fès est-elle un centre intellectuel ?
+    answer: Fès est un centre intellectuel grâce à l’Université al-Qarawiyyin et ses bibliothèques historiques.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quelles sont les influences culturelles majeures à Fès ?
+    answer: Les influences incluent les cultures arabe, berbère, andalouse, et africaine.[](https://www.universalis.fr/encyclopedie/fes/)
+
+  # Architecture et monuments
+  - question: Qu’est-ce que la tannerie Chouara ?
+    answer: La tannerie Chouara, datant du XIe siècle, est célèbre pour son processus traditionnel de tannage du cuir.[](https://voyage.tv5monde.com/fr/fes-les-secrets-du-haut-lieu-de-la-spiritualite-et-de-la-culture-marocaines)
+  - question: Où se trouve la tannerie Chouara ?
+    answer: Elle se trouve dans le quartier Blida de la médina de Fès el-Bali.[](https://voyage.tv5monde.com/fr/fes-les-secrets-du-haut-lieu-de-la-spiritualite-et-de-la-culture-marocaines)
+  - question: Quelle est l’importance de la Mosquée al-Qarawiyyin ?
+    answer: Fondée en 857, elle abrite l’une des plus anciennes universités au monde.[](https://voyage.tv5monde.com/fr/fes-les-secrets-du-haut-lieu-de-la-spiritualite-et-de-la-culture-marocaines)
+  - question: Qui a fondé l’Université al-Qarawiyyin ?
+    answer: Fatima al-Fihri a fondé l’Université al-Qarawiyyin en 857.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Qu’est-ce que la Madrasa Bou Inania ?
+    answer: Construite au XIVe siècle, c’est un chef-d’œuvre marinide avec des zelliges et boiseries sculptées.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Quand la Madrasa Cherratine a-t-elle été construite ?
+    answer: La Madrasa Cherratine a été construite en 1670 par le sultan Moulay Rachid.[](https://voyage.tv5monde.com/fr/fes-les-secrets-du-haut-lieu-de-la-spiritualite-et-de-la-culture-marocaines)
+  - question: Qu’est-ce que Bab Bou Jeloud ?
+    answer: Bab Bou Jeloud est une porte monumentale de la médina, construite en 1913, ornée de zelliges bleus.[](https://fr.wikipedia.org/wiki/M%25C3%25A9dina_de_F%25C3%25A8s)
+  - question: Quelle est l’importance de la Zawiya de Moulay Idris II ?
+    answer: C’est un sanctuaire dédié à Idris II, attirant des pèlerins marocains.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quels sont les éléments architecturaux typiques de Fès ?
+    answer: Les éléments incluent les zelliges, les stucs, les bois sculptés, et les patios centraux.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Combien de mosquées y a-t-il dans la médina de Fès ?
+    answer: La médina de Fès compte plus de 350 mosquées.[](https://fr.wikipedia.org/wiki/M%25C3%25A9dina_de_F%25C3%25A8s)
+
+  # Économie
+  - question: Quel est le rôle de l’artisanat dans l’économie de Fès ?
+    answer: L’artisanat, notamment le cuir et le zellige, est une source majeure de revenus, surtout pour le tourisme.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Quels produits agricoles sont cultivés autour de Fès ?
+    answer: La plaine du Saïss produit des céréales, des olives, des raisins, et des légumineuses.[](https://en.wikipedia.org/wiki/Fez%2C_Morocco)
+  - question: Comment le tourisme impacte-t-il Fès ?
+    answer: Le tourisme génère environ 1 million de visiteurs par an, soutenant l’économie locale.[](https://fr.vikidia.org/wiki/F%25C3%25A8s)
+  - question: Quels sont les principaux secteurs industriels à Fès ?
+    answer: Les secteurs incluent l’agroalimentaire, le textile, et le travail du cuir.[](https://www.universalis.fr/encyclopedie/fes/)
+  - question: Pourquoi Fès était-elle un centre commercial au Moyen Âge ?
+    answer: Fès était un carrefour commercial reliant l’Afrique, l’Europe, et le Moyen-Orient.[](https://riad-layalina-fes.com/tourisme-fes-histoire-de-fez-maroc/)
+
+  # Gastronomie
+  - question: Quelles sont les spécialités culinaires de Fès ?
+    answer: Les spécialités incluent la pastilla, le tajine, la harira, et les cornes de gazelle.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Qu’est-ce que la pastilla ?
+    answer: La pastilla est un plat salé-sucré à base de volaille, amandes, et pâte feuilletée.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Quelles épices sont typiques de la cuisine fassie ?
+    answer: Les épices incluent le safran, la cannelle, le cumin, et le gingembre.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Où peut-on déguster la cuisine traditionnelle à Fès ?
+    answer: La cuisine traditionnelle se déguste dans les riads et les restaurants de la médina.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Pourquoi la gastronomie de Fès est-elle réputée ?
+    answer: Elle est réputée pour son raffinement, mêlant influences andalouses et marocaines.[](https://www.visitmorocco.com/fr/voyage/fes)
+
+  # Tourisme
+  - question: Quelles sont les principales attractions touristiques de Fès ?
+    answer: Les attractions incluent la médina, la tannerie Chouara, l’Université al-Qarawiyyin, et Bab Bou Jeloud.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Quelles excursions peut-on faire depuis Fès ?
+    answer: Les excursions incluent Meknès, Volubilis, Ifrane, et le Moyen Atlas.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Qu’est-ce que Volubilis ?
+    answer: Volubilis est un site archéologique romain près de Fès, classé au patrimoine mondial.[](https://www.visitmorocco.com/fr/voyage/fes)
+  - question: Pourquoi la médina de Fès est-elle piétonne ?
+    answer: La médina est piétonne en raison de ses ruelles étroites, conçues pour les piétons et les ânes.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Combien de visiteurs Fès attire-t-elle chaque année ?
+    answer: Fès attire environ 1 million de visiteurs par an.[](https://fr.vikidia.org/wiki/F%25C3%25A8s)
+
+  # Artisanat
+  - question: Quels sont les principaux produits artisanaux de Fès ?
+    answer: Les produits incluent le cuir, les céramiques, le zellige, et les textiles.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Qu’est-ce que le zellige ?
+    answer: Le zellige est une mosaïque de carreaux de céramique émaillée, typique de l’architecture marocaine.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Où peut-on voir les artisans au travail à Fès ?
+    answer: Les artisans travaillent dans les souks de la médina, notamment près de la tannerie Chouara.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+  - question: Quelle est l’importance des tanneries dans l’artisanat de Fès ?
+    answer: Les tanneries, comme Chouara, produisent du cuir de haute qualité depuis des siècles.[](https://voyage.tv5monde.com/fr/fes-les-secrets-du-haut-lieu-de-la-spiritualite-et-de-la-culture-marocaines)
+  - question: Comment le savoir-faire artisanal est-il transmis à Fès ?
+    answer: Il est transmis de génération en génération dans les ateliers familiaux.[](https://www.beauxarts.com/grand-format/la-cite-imperiale-de-fes-un-joyau-medieval-du-monde-arabe-au-coeur-du-maroc/)
+
+ 

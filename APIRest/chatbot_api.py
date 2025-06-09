@@ -18,7 +18,7 @@ CORS(app, resources={r"/*": {"origins": "http://localhost:5173"}})
 
 
 # Load your embeddings and retriever setup
-embeddings_dir = r"C:\Users\ACER NITRO 5\Documents\GitHub\RAG-Ro-Project\RAG-Chatbot-Project\DataChatbot\embeddings\embeddingsTowTest"
+embeddings_dir = r"C:\Users\hp\Desktop\RAG-Chatbot-Project\APIRest\embeddings\embeddingsTowTest"
 
 class CustomRetriever:
     def __init__(self, embeddings, texts, metadatas, embedding_model):
